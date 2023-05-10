@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React from "react";
 import { FcGoogle } from "react-icons/fc";
 import { useState, useEffect } from "react";
